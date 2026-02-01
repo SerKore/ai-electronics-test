@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sony WH-1000XM5 Wireless Headphones - AI Electronics Test</title>
+    
+    <!-- SCHEMA MARKUP - THIS IS WHAT YOU'RE PRACTICING -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb",
+      "description": "Industry-leading noise cancellation with crystal-clear hands-free calling and Alexa voice control",
+      "brand": {
+        "@type": "Brand",
+        "name": "Sony"
+      },
+      "sku": "WH1000XM5",
+      "mpn": "WH1000XM5/B",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://[yourusername].github.io/ai-electronics-test/sony-headphones.html",
+        "priceCurrency": "USD",
+        "price": "399.99",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "AI Electronics Test"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "247"
+      }
+    }
+    </script>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .product {
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .price {
+            font-size: 24px;
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        .stock {
+            color: #27ae60;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="product">
+        <h1>Sony WH-1000XM5 Wireless Headphones</h1>
+        
+        <img src="https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb" 
+             alt="Sony WH-1000XM5" 
+             style="max-width: 100%; height: auto;">
+        
+        <p class="price">$399.99</p>
+        <p class="stock">✓ In Stock</p>
+        
+        <h2>Product Details</h2>
+        <p>Industry-leading noise cancellation with crystal-clear hands-free calling and Alexa voice control. Experience premium sound quality with 30-hour battery life.</p>
+        
+        <h3>Features:</h3>
+        <ul>
+            <li>Industry-leading noise cancellation</li>
+            <li>30-hour battery life</li>
+            <li>Premium sound quality</li>
+            <li>Multi-point connection</li>
+        </ul>
+        
+        <h3>Customer Reviews</h3>
+        <p>⭐⭐⭐⭐⭐ 4.8/5 (247 reviews)</p>
+        
+        <p><strong>SKU:</strong> WH1000XM5</p>
+    </div>
+</body>
+</html>
